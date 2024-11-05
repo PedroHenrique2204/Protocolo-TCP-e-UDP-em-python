@@ -17,3 +17,29 @@ Este projeto demonstra a implementação de um servidor e cliente utilizando soc
 - Biblioteca `socket` (já incluída no Python)
 
 ### Passos para Rodar o Servidor e Cliente
+### Passo 1: Preparar o Ambiente
+
+1. Certifique-se de que você tem o Python 3.x instalado.
+2. Abra um terminal ou prompt de comando.
+
+### Passo 2: Criar o Servidor
+
+#### Servidor TCP
+
+1. Abra um editor de texto ou IDE de sua preferência.
+2. Copie o código do servidor TCP
+
+
+#### Servidor UDP
+
+1. Abra um editor de texto ou IDE de sua preferência.
+2. Copie o código do servidor UDP
+
+#### Cliente
+
+1. Abra um editor de texto ou IDE de sua preferência.
+2. Copie o código do cliente
+
+#### Testar
+Inicie o servidor correspondente (TCP ou UDP) conforme explicado acima.
+Depois, execute o cliente para enviar e receber mensagens.
